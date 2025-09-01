@@ -42,5 +42,7 @@ This preliminary [tutorial](https://github.com/annalena-k/tutorial_plot_the_firs
 ### (2) Notebook 2: Plot gravitational wave data
 Since you now know how to visualize data, we will learn how to load data from a file, inspect the contents and plot the result.
 
+![plot](gw_data.png)
+
 I hope this is interesting for you. If you have ideas for extensions, write me an email.
 Feel free to re-use the tutorials if you give proper attribution.
