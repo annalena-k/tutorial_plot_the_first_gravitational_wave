@@ -1,0 +1,4 @@
+numpy
+scipy
+jupyter
+pycbc  # only for data download and generation
